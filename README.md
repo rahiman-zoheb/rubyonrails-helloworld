@@ -2,22 +2,7 @@
 
 This project is a simple HelloWorld web application using Ruby On Rails.
 
-Things you may want to cover:
+This project aims to help understand how to use Ruby, Rails, AWS Cloud9 and Git
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+To run a rails server, cd to the root directory and run `rails server` and navigate to the url in a browser
+This application follows MVC architecture and MVC can be found under app folder under the root dir
