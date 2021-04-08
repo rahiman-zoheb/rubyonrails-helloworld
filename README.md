@@ -1,4 +1,4 @@
-# README
+# Hello World! (Ruby On Rails version)
 
 This project is a simple HelloWorld web application using Ruby On Rails.
 
